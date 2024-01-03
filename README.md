@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jpap19/ActiveDirectoryLab)
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Sentinel Tutorial MAP Home Lab with LIVE CYBER ATTACKS! ](https://github.com/jpap19/AzureSentinelLab)
+  - [Nessus Vulnerability Management Home Lab ](https://github.com/jpap19/NessusVulnerabilityManagementLab)
+  - [SOC Analyst End2End Lab](https://github.com/jpap19/SocAnalystEnd2EndLab)
 
 
 <h2>📄Certifications</h2>
