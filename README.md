@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/jpap19/ActiveDirectoryLab)
   - [Azure Sentinel Tutorial MAP Home Lab with LIVE CYBER ATTACKS! ](https://github.com/jpap19/AzureSentinelLab)
-  - [Nessus Vulnerability Management Home Lab ]https://github.com/jpap19/NessusHomeLab()
+  - [Nessus Vulnerability Management Home Lab ](https://github.com/jpap19/NessusHomeLab)
   - [SOC Analyst End2End Lab](https://github.com/jpap19/SocAnalystEnd2EndLab)
 
 
