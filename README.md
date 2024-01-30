@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jpap19/ActiveDirectoryLab)
-  - [Nessus Vulnerability Management Home Lab ](https://github.com/jpap19/NessusHomeLab)
+  - [Nessus Vulnerability Management Home Lab ](https://github.com/jpap19/NessusHomeLab) 
+  - [A Simple Elastic SIEM Lab ](https://github.com/jpap19/A-Simple-Elastic-SIEM-Lab)
   - [Configure SIEM security operations using Microsoft Sentinel ](https://github.com/jpap19/AzureSentinelLab/tree/main)
   - [Azure Sentinel MAP Home Lab with LIVE CYBER ATTACKS! ](https://github.com/jpap19/AzureSentinelHomeLab)
   - [SOC Analyst End2End Lab](https://github.com/jpap19/SocAnalystEnd2EndLab)
