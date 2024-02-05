@@ -12,10 +12,10 @@
 
 <h2>📄Certifications</h2>
 
-- [Google Cybersecurity professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [GRC Analyst Masterclass from SimplyCyber](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [AWS](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [CCNA](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Google Cybersecurity professional](https://github.com/jpap19/jeanpassoucyberprojects/blob/main/Images/GoogleCyber.png)
+- [GRC Analyst Masterclass from SimplyCyber]()https://github.com/jpap19/jeanpassoucyberprojects/blob/main/Images/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf
+- [AWS](https://github.com/jpap19/jeanpassoucyberprojects/blob/main/Images/AWS.png)
+- [CCNA](https://github.com/jpap19/jeanpassoucyberprojects/blob/main/Images/CCNA.png)
 
 <h2> 🤳 Connect with me:</h2>
 
